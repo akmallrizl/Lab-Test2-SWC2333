@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EmployeeSalaryProcessing
+comment1.params=name\ baseSalary\ yearsOfService
+comment1.target=Employee(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ calculateAnnualSalary()
+comment4.params=
+comment4.target=int\ getYearsOfService()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
